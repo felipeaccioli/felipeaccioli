@@ -1,4 +1,4 @@
-### Hi there, I'm Felipe and I'm a Developer apprentice in training. 👋
+### Hi there, I'm Felipe and I'm a developer apprentice in training. 👋
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 
