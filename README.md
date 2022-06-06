@@ -1,6 +1,6 @@
 ### Hi there, I'm Felipe, a developer apprentice in training. 👋
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, Angular, Java and Spring Boot.
 
 <div align="center">
   <a href="https://github.com/felipeaccioli">
