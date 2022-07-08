@@ -1,6 +1,6 @@
 ### Hi there, I'm Felipe, a developer apprentice in training. 👋
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, Angular, Node.js, Java and Spring Boot.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, Angular, Java and Spring Boot.
 
 <div align="center">
   <a href="https://github.com/felipeaccioli">
@@ -14,7 +14,6 @@
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 </div>
