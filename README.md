@@ -1,6 +1,6 @@
 ### Hi there, I'm Felipe, a developer apprentice in training. 👋
 
-- 🌱 I’m currently learning: 
+- 🌱 I’m currently learning:<br> 
 • Algorithms and Logic Programming.<br>
 • HTML, CSS and JavaScript.
 
