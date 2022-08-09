@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning:<br> 
 • Algorithms and Logic Programming.<br>
-• HTML, CSS and JavaScript.
+• HTML, CSS and JavaScript.<br>
 
 <div align="center">
   <a href="https://github.com/felipeaccioli">
