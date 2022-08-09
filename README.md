@@ -1,6 +1,8 @@
 ### Hi there, I'm Felipe, a developer apprentice in training. 👋
 
-- 🌱 I’m currently learning Algorithms and Logic Programming.
+- 🌱 I’m currently learning: 
+• Algorithms and Logic Programming.
+• HTML, CSS and JavaScript.
 
 <div align="center">
   <a href="https://github.com/felipeaccioli">
