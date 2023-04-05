@@ -1,4 +1,4 @@
-### Hi there, I'm Felipe, a Front-end Developer apprentice in training. 👋
+### Hi there, I'm Felipe, a Front-end Developer. 👋
 
 - 🌱 I’m currently learning:<br> 
 • Algorithms and Logic Programming.<br>
