@@ -1,4 +1,4 @@
-### Hi there, I'm Felipe, a Front-end Developer. 👋
+### Hi there, I'm Felipe, a IT student. 👋
 
 - 🌱 I’m currently learning:<br>
 • Programming logic and algorithms.<br>
