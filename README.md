@@ -1,7 +1,7 @@
 ### Hi there, I'm Felipe, a Front-end Developer. 👋
 
 - 🌱 I’m currently learning:<br>
-• HTML, CSS and JavaScript.<br>
+• Programming logic and algorithms.<br>
 
 <div align="center">
   <a href="https://github.com/felipeaccioli">
